@@ -7,5 +7,5 @@
 - Submission Date: 09.12.2025
 
 ## Project Links
-- GitHub Repository: https://github.com/h0wLeR21/Twitter-Scrapper
-- Google Drive Data: https://drive.google.com/drive/folders/1-zuluY147NCGLaNVWT0J_kk86l6IrzuH?usp=sharing
+- GitHub Repository: https://github.com/h0wLeR21/Linkedin-Scraper.git
+- Google Drive Data: https://drive.google.com/drive/folders/1VNWZXIRVusCSls78rPCCFNrquJ2XZbAw?usp=sharing
